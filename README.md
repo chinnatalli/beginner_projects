@@ -1,4 +1,2 @@
-#Demo
+I am doing Python beginner projects 
 
-
-some description !
